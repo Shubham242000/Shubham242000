@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shubham242000
 - 👀 I’m interested in Solving Data Strucutres and Algorithm based Problems and building cool web apps!
-- 🌱 I’m currently learning ReactJS 
 - 📫 Reach me at " shubhamshrivastava2000@gmail.com "
 
 <!---
